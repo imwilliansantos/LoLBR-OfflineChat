@@ -1,7 +1,5 @@
 # LoLBR-OfflineChat
 
-# LoLBR-OfflineChat
-
 A C# project focused on offline chat functionality for LoLBR.
 
 ## 📌 About
