@@ -1,0 +1,14 @@
+c:\Users\Pixel\Documents\CSharp\bin\Debug\net10.0\CSharp.exe
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net10.0\CSharp.deps.json
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net10.0\CSharp.runtimeconfig.json
+c:\Users\Pixel\Documents\CSharp\bin\Debug\net10.0\CSharp.dll
+c:\Users\Pixel\Documents\CSharp\bin\Debug\net10.0\CSharp.pdb
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfoInputs.cache
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfo.cs
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.csproj.CoreCompileInputs.cache
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.dll
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\refint\CSharp.dll
+c:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.pdb
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\CSharp.genruntimeconfig.cache
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net10.0\ref\CSharp.dll

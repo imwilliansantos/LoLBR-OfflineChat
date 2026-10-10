@@ -1,0 +1,14 @@
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net8.0-windows\LoLBR-OfflineChat.exe
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net8.0-windows\LoLBR-OfflineChat.deps.json
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net8.0-windows\LoLBR-OfflineChat.runtimeconfig.json
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net8.0-windows\LoLBR-OfflineChat.dll
+C:\Users\Pixel\Documents\CSharp\bin\Debug\net8.0-windows\LoLBR-OfflineChat.pdb
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.AssemblyInfoInputs.cache
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.AssemblyInfo.cs
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.csproj.CoreCompileInputs.cache
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.dll
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\refint\LoLBR-OfflineChat.dll
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.pdb
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\LoLBR-OfflineChat.genruntimeconfig.cache
+C:\Users\Pixel\Documents\CSharp\obj\Debug\net8.0-windows\ref\LoLBR-OfflineChat.dll
